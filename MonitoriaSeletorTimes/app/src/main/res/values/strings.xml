@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">MonitoriaSeletorTimes</string>
+    <string name="action_settings">Settings</string>
+
+
+    <string-array name="estado_civil">
+        <item>Solteiro</item>
+        <item>casado</item>
+        <item>Padrao david</item>
+        <item>Forever Alone</item>
+    </string-array>
+    <string name="title_activity_tela2">Tela2</string>
+
+</resources>
